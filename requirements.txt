@@ -1,0 +1,13 @@
+samtools
+bedtools
+kallistov.46.0
+pigz/2.4
+HTSeq
+pysam
+pybedtools
+Numpy
+pandas-1.3.3
+collections
+multiprocessing
+python/3.9
+intronneoantigen-master
